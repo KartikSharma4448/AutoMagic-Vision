@@ -87,14 +87,6 @@ python iron_man_magic.py
 
 ---
 
-## 📸 Screenshots
-
-*(Replace these placeholders with actual screenshots from your app!)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Smart+Mouse+Screenshot" alt="Smart Mouse" width="45%">
-  <img src="https://via.placeholder.com/400x250.png?text=Fruit+Ninja+Screenshot" alt="Fruit Ninja" width="45%">
-</div>
 
 ---
 
